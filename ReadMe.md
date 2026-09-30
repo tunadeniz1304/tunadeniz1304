@@ -18,7 +18,6 @@
 
 - 🌱 **NeuroFarm** — co-founder & technical lead. On-chip learning on BrainChip Akida (MetaTF) for real-time, ultra-low-power irrigation control. Accepted into the VU Amsterdam Demonstrator Lab.
 - ⚡ **Neuromorphic research** — spiking few-shot class-incremental learning on NeuroBench with an integer, hardware-plausible Hebbian rule.
-- 📚 **Legal RAG** — hybrid retrieval over 916 Turkish statutes (AI Engineer Intern @ WTECHIN).
 
 ### 🚀 Featured projects
 
